@@ -13,14 +13,14 @@ ul{
 /* ====================CABEÇALHO===================== */
 .cabecalho__nav{
   align-items: center;
-  padding:20px 5px;
-  background: #131414;
+
 }
 .logo{
   display: none;
 }
 
 .menu{
+  background: #131414;
   width: 100%;
   margin-top: 5px;
   margin-left: -100%;
@@ -71,6 +71,7 @@ label[for="bt_menu"]{
 }
 #bt_menu{
   display: none;
+
 }
 
 #bt_menu:checked ~ .menu{
