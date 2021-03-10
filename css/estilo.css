@@ -137,11 +137,15 @@ label[for="bt_menu"]{
   margin-top: 10px;
   object-fit: cover;
 }
+.card__imagem:hover{
+  transform: scale(1.2);
+  transition: 0.5s all;
+}
 .card__posicao__imagem{
   object-fit: cover;
   padding: 0 10px 5px;
   width: 100%;
-  height: 200px;
+  height: 250px;
 }
 .card__texto{
   padding: 0 10px 0 10px;
