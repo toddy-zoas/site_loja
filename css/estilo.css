@@ -16,7 +16,7 @@ ul{
 
 }
 .logo{
-  display: none;
+  display: inline-block;
 }
 
 .menu{
