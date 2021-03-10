@@ -78,6 +78,17 @@ label[for="bt_menu"]{
   margin-left: 0;
 }
 
+.container_carrossel{
+  margin-top: 5rem;
+}
+.carrousel__imagem{
+  object-fit: cover;
+  width: 50%;
+  height: 500px;
+  object-position: 0 15%;
+}
+
+
 .menu__lista{
   font-weight: bold;
   color: #000;
@@ -106,7 +117,7 @@ label[for="bt_menu"]{
 /* ====================CORPO===================== */
 
 .titulo_home{
-  margin-top: 8rem;
+  margin-top: 2rem;
   text-align: center;
   color: #FFF;
   font-weight: bold;
