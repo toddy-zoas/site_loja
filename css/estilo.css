@@ -343,7 +343,7 @@ margin: 10px 0 0 0;
   .imagem-carrossel{
     object-fit: cover;
     object-position: 0 40%;
-    height: 400px;
+
   }
   
 }  
@@ -388,7 +388,6 @@ margin: 10px 0 0 0;
   }
   .card{
     flex-direction: row;
-    
   }
   .card__container{
     margin-bottom: 20px;
