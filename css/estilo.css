@@ -117,7 +117,8 @@ label[for="bt_menu"]{
 /* ====================CORPO===================== */
 
 .titulo_home{
-  margin-top: 2rem;
+  margin-top: 5rem;
+  margin-bottom: 2rem;
   text-align: center;
   color: #FFF;
   font-weight: bold;
