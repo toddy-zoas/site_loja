@@ -83,9 +83,20 @@ label[for="bt_menu"]{
 }
 .carrousel__imagem{
   object-fit: cover;
-  width: 50%;
   height: 500px;
+}
+
+.img_camisa{
   object-position: 0 15%;
+  width: 80%;
+}
+.img_mascara{
+  object-position: 50% 50%;
+  width: 80%;
+}
+.img_mosaico{
+  object-position: 50% 50%;
+  width: 80%;
 }
 
 
